@@ -1,0 +1,17 @@
+{
+  "name": "CÔNG TY CỔ PHẦN DỊCH VỤ PHÒNG CHÁY CHỮA CHÁY",
+  "short_name": "FPTS",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#0b2332",
+  "icons": [
+    {
+      "src": "assets/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
